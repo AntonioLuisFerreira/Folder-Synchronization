@@ -11,6 +11,6 @@ replica. The program should maintain a full, identical copy of source folder at 
 
 <h3 style="text-align: center;">Result</h3>
 Console output
-<div style="text-align:center"><img src="Images/2.png" alt="drawing" height="100"/></div>
+<div style="text-align:center"><img src="Images/2.png" alt="drawing" height="70"/></div>
 Log file
-<div style="text-align:center"><img src="Images/3.png" alt="drawing" height="100"/></div>
+<div style="text-align:center"><img src="Images/3.png" alt="drawing" height="50"/></div>
