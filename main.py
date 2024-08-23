@@ -4,10 +4,10 @@ from validate_paths import ValidatePaths
 from log_config import LogConfiguration
 def main():
 
-    source_path = sys.argv[1]
-    replica_path = sys.argv[2]
+    source_path      = sys.argv[1]
+    replica_path     = sys.argv[2]
     synchro_interval = sys.argv[3]
-    log_path = sys.argv[4]
+    log_path         = sys.argv[4]
 
     # Configure log file
     LogConfiguration.config(log_path)
